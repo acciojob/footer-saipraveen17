@@ -1,1 +1,22 @@
 /* your code here */
+body{
+	background-color:black;
+	color:white;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
+.media-icons{
+	display:flex;
+	justify-content:flex-end;
+	gap:10px;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+}
